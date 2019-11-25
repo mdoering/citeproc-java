@@ -1,10 +1,10 @@
 subprojects {
     apply plugin: 'java'
 
-    version = '2.0.1-SNAPSHOT'
+    version = '2.0.0j11'
     group = 'de.undercouch'
-    sourceCompatibility = '1.8'
-    targetCompatibility = '1.8'
+    sourceCompatibility = '1.11'
+    targetCompatibility = '1.11'
 
     repositories {
         mavenCentral()
